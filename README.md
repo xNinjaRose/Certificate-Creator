@@ -1,6 +1,8 @@
 # Certificate-Creator
 Creates a Certificate and exports it to a PFX file
 
+DOWNLOAD BOTH THE PS1 SCRIPT AND THE REQUESTS.INF FILE ---- BOTH ARE REQUIRED FOR SCRIPT TO WORK
+
 1 -- Open the "requests.inf" file and put in your domain name (test.xyz , local.home, etc.) after the CN: where it says INSERT DOMAIN HERE
 
 2 -- open Powershell as an Administrator
